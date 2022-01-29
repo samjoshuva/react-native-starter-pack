@@ -1,0 +1,11 @@
+{
+  "name": "fasoRN",
+  "displayName": "fasoRN",
+  "slug": "faso-sales",
+  "privacy": "public",
+  "orientation": "portrait",
+  "primaryColor": "#4d4d4d",
+  "backgroundColor": "#F8F8F8",
+  "version": "0.0.1",
+  "scheme": "faso-sales"
+}
